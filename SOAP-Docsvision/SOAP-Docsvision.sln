@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAP_Docsvision", "SOAP-Docsvision\SOAP_Docsvision.csproj", "{4950C88D-BAA2-475D-B769-F89F1C9DF8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4950C88D-BAA2-475D-B769-F89F1C9DF8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4950C88D-BAA2-475D-B769-F89F1C9DF8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4950C88D-BAA2-475D-B769-F89F1C9DF8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4950C88D-BAA2-475D-B769-F89F1C9DF8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6631D058-4FC7-4A95-972C-E4C5F117B9DB}
+	EndGlobalSection
+EndGlobal

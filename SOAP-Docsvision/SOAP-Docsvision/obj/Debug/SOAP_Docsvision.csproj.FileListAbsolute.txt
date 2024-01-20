@@ -1,0 +1,6 @@
+C:\Users\Stetsko.D\source\repos\SOAP-Docsvision\SOAP-Docsvision\bin\Debug\SOAP-Docsvision.exe.config
+C:\Users\Stetsko.D\source\repos\SOAP-Docsvision\SOAP-Docsvision\bin\Debug\SOAP-Docsvision.exe
+C:\Users\Stetsko.D\source\repos\SOAP-Docsvision\SOAP-Docsvision\bin\Debug\SOAP-Docsvision.pdb
+C:\Users\Stetsko.D\source\repos\SOAP-Docsvision\SOAP-Docsvision\obj\Debug\SOAP_Docsvision.csproj.CoreCompileInputs.cache
+C:\Users\Stetsko.D\source\repos\SOAP-Docsvision\SOAP-Docsvision\obj\Debug\SOAP-Docsvision.exe
+C:\Users\Stetsko.D\source\repos\SOAP-Docsvision\SOAP-Docsvision\obj\Debug\SOAP-Docsvision.pdb

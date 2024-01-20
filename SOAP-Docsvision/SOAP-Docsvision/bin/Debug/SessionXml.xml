@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <SessionLogin xmlns="http://schemas.docsvision.com/Platform/2009-02-03/StorageServer/">
+      <baseName>{$baseName$}</baseName>
+      <sessionSettings>&lt;Settings&gt;&lt;Setting Name=&quot;ComputerAddress&quot; Type=&quot;string&quot; ReadOnly=&quot;1&quot;&gt;192.168.0.2&lt;/Setting&gt;&lt;Setting Name=&quot;ComputerName&quot; Type=&quot;string&quot;&gt;connectedComputer&lt;/Setting&gt;&lt;Setting Name=&quot;LocaleID&quot; Type=&quot;int&quot;&gt;1049&lt;/Setting&gt;&lt;/Settings&gt;</sessionSettings>
+    </SessionLogin>
+  </soap:Body>
+</soap:Envelope>
